@@ -1,0 +1,15 @@
+.rounded
+{
+    border-radius: 50px!important;
+}
+.footer
+{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.list-group-flush > 
+.list-group-item 
+{
+    border: inherit!important;
+}

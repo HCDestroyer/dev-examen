@@ -1,0 +1,54 @@
+body{
+	background-color: #F4ED05 ;
+}
+
+h1{color:#05F4ED;}
+h1{text-align: center;}
+h1{font-family: alegrian}
+
+caption{color:#800080;}
+caption{font-family: alegrian}
+
+body{
+	font-family: verdana;
+}
+
+h1{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 25px;
+	font-family: monaco;
+}
+
+table{
+	width: 100%;
+	border: 2px solid orchid;
+	background-color:#239688;
+}
+
+body{color:	#00FFFF}
+
+table tr:hover{
+	background:gray;
+}
+
+table, td, th{border: 1px solid silver; border-collapse; padding: 3px 6px }
+
+
+.imagenes:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+
+img{
+	width: 100px;
+	height: 100px;
+}
+
+
+}
